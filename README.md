@@ -4,10 +4,11 @@
 Um aplicativo mobile desenvolvido com **React Native** e **Expo**, para geração de dietas personalizadas. Utiliza variáveis de ambiente para proteger sua `API_KEY` e se conecta a um backend via API com **Node.js**, **TypeScript** e **Fastify**.
 
 ---
-![Home](https://github.com/user-attachments/assets/c5b367da-d860-4da4-9083-11a634f0f4dc)
-![Step1](https://github.com/user-attachments/assets/a273463b-3e1b-444d-8945-e2a6dcb96d6e)
-![Step2](https://github.com/user-attachments/assets/58c62d22-d3e5-42a0-bde6-1adc3f09bca7)
-![Diet](https://github.com/user-attachments/assets/89b0cea7-17be-4ead-9b15-1eb8d618a225)
+![Home](https://github.com/user-attachments/assets/67183534-1119-4487-8ac4-829aeee367f8)
+![Step1](https://github.com/user-attachments/assets/ca743b4e-ba6e-4282-880f-18a57c6af4d6)
+![Step2](https://github.com/user-attachments/assets/72b97b47-1114-4bfd-ac4e-d487f46f4a24)
+![Diet](https://github.com/user-attachments/assets/2a3ff28f-7c06-4ce0-9b25-e69cbe4a4e2d)
+
 
 
 ---
